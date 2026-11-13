@@ -41,7 +41,7 @@ If you just want to get started with the Units use the links to the CoLab notebo
 4. Now you can start your Jupyter notebooks as:
 	
 	```
-	jupyter notebook Unit_01/Unit_01_problem_solving_I.ipynb
+	jupyter notebook 01_coding_basics.ipynb
 	```
 
 ## License
