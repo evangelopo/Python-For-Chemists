@@ -23,7 +23,7 @@ Units will require different packages from the scientific Python ecosystem. The 
 
 If you just want to get started with the Units use the links to the CoLab notebooks provided. Otherwise you can follow these steps to get your local environment setup:
 
-1. Get your anaconda distribution setup. See [here](https://datacarpentry.org/2016-05-29-PyCon/install.html) for detailed instructions.
+1. Get your anaconda distribution setup. See [here](https://www.anaconda.com/docs/getting-started/installation) for detailed instructions.
 2. Open a terminal or anaconda promt.
 2. Create an environment using the following command
 	
